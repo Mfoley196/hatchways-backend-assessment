@@ -9,9 +9,17 @@
   "author": "M. Foley",
   "license": "ISC",
   "dependencies": {
+    "apicache": "^1.6.3",
+    "axios": "^0.24.0",
     "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
     "express": "^4.17.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mfoley196/hatchways-backend-assessment.git"
   },
   "devDependencies": {
     "mocha": "^9.1.3"
